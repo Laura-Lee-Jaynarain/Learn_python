@@ -1,0 +1,1 @@
+mystring = "Hello, World!"
